@@ -1,6 +1,6 @@
 # 🧠 No-Code AI Workflow Builder – Backend
 
-This is the backend for the No-Code AI Workflow Builder assignment built using **FastAPI**, **PostgreSQL**, and **ChromaDB**.  
+This is the backend for the No-Code AI Workflow Builder built using **FastAPI**, **PostgreSQL**, and **ChromaDB**.  
 It supports document uploads, embedding generation (OpenAI/Gemini), LLM querying (OpenAI/Gemini), and full workflow execution.
 
 ---
